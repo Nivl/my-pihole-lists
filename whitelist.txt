@@ -270,3 +270,5 @@ youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
 zer0day.ch
+app.box.com
+titlestoragewus0606.blob.core.windows.net
