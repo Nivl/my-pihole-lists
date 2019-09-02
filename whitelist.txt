@@ -274,3 +274,4 @@ app.box.com
 titlestoragewus0606.blob.core.windows.net
 az764295.vo.msecnd.net
 dashboard-01.braze.com
+fastly.com
